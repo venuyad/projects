@@ -106,3 +106,15 @@ def main():
 # Run the chatbot
 if __name__ == "__main__":
     main()
+    
+#Chatbot: Hello! I am your AI-powered assistant. Type 'bye' to exit.
+#You: hello
+#Chatbot: Hello! How can I help you today?
+#You: payment
+#Chatbot: Would you like to proceed with payment? (yes/no)
+#You: yes
+#Please enter your card details to process payment.
+#Enter your 16-digit card number: 1234567812345678
+#Enter the amount to pay: 100
+#Payment successful.///
+
